@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\build\\${fileBasenameNoExtension}.out",
+            "stopAtEntry": true,
+            "cwd": "${fileDirname}",
+            "preLaunchTask": "C/C++: g++.exe build active file"
+        }
+    ]
+}
