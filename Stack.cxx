@@ -1,4 +1,4 @@
-#include "Stack.h"
+#include "Stack.hxx"
 
 Stack::Stack()
 {
